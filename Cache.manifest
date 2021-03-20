@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # Chronoss Host 7.5x
-# v1.0
+# v2.1
 
 app2usb.js
 app-dumper.js
@@ -27,3 +27,16 @@ ps4.js
 restore.js
 todex.js
 utils.js
+auto/blob.js
+auto/index.html
+auto/int64.js
+auto/jb.js
+auto/loader-750.js
+auto/loader-751.js
+auto/loader-755.js
+auto/mira-750.js
+auto/mira-751.js
+auto/mira-755.js
+auto/netcat.js
+auto/ps4.js
+auto/utils.js

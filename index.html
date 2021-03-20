@@ -22,7 +22,7 @@ text-align:center;
 color:white;
 }
 .btn {
-width: 262px;
+width: 200px;
 height: 50px;
 padding-top: 10px;
 padding-bottom: 13px;
@@ -87,6 +87,7 @@ function DisplayCacheProgress(){setTimeout(function(){window.msgs.innerHTML="✔
 <h1 style="color:white" id=msg>Choose your payload :</h1>
 <div style="text-align:center">
 <a href="payloadm.html#p0=mira.js&p1=mira2.js"><button class="btn btn-main" onmouseover="mainpayload()" onmouseout="pagetitle()"> MIRA (all in one) </button></a>
+<a href="auto/index.html"><button class="btn btn-main" onmouseover="mainpayload1()" onmouseout="pagetitle()"> MIRA (AIO AUTO) </button></a>
 <a href="payloadb.html#p0=mira.js"><button class="btn btn-main" onmouseover="mainpayload2()" onmouseout="pagetitle()"> Bin Loader </button></a>
 <br><br>
 <a href="payloadp.html#p0=mira.js&p1=app-dumper.js"><button class="btn btn-payl" onmouseover="dumper()" onmouseout="pagetitle()"> Dumper </button></a>
@@ -109,6 +110,9 @@ Thanks to all the developers who made this possible !</i></font></p></div>
 <script>
 function mainpayload(){
 document.getElementById("msg").innerHTML = "This version of MIRA reboot your PS4 and active a Debug Settings : 7.50 Users";
+}
+function mainpayload1(){
+document.getElementById("msg").innerHTML = "Auto load MIRA on next launch for fw 7.5x";
 }
 function mainpayload2(){
 document.getElementById("msg").innerHTML = "Inject your payload on port 9020";
