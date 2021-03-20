@@ -5,4 +5,7 @@ __NETCAT GUI by Modded Warfare__ : [NETCAT GUI](https://www.mediafire.com/file/z
 Send your payload on port __9020__ after exploit loaded with __NETCAT GUI__  
 My __Paypal__ : [just click here](https://www.paypal.com/paypalme/chronoss01)
 
-![Screenshot](https://github.com/chronoss09/host75xv2/blob/main/20210318045908.jpg)
+![Screenshot](https://github.com/chronoss09/host75xv2/blob/main/20210318045908.jpg)  
+
+__v2.1 : add auto mira by @_AlAzif__
+![Screenshot](https://github.com/chronoss09/host75xv2/blob/main/20210320224520.jpg)  
