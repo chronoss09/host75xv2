@@ -8,4 +8,4 @@ My __Paypal__ : [just click here](https://www.paypal.com/paypalme/chronoss01)
 ![Screenshot](https://github.com/chronoss09/host75xv2/blob/main/20210318045908.jpg)  
 
 __v2.1 : add auto mira by @_AlAzif__
-![Screenshot](https://github.com/chronoss09/host75xv2/blob/main/20210320224520.jpg)  
+![Screenshot](https://github.com/chronoss09/host75xv2/blob/main/20210320222145.jpg)  
